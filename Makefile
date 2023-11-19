@@ -1,2 +1,2 @@
 start: main.py
-	python main.py test.k
+	python main.py welcome.k
